@@ -1,0 +1,4 @@
+1###Motherboard
+2###Processor
+3###Ram
+4###GPU

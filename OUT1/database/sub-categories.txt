@@ -1,0 +1,8 @@
+1###Asus###Motherboard
+2###Gigabyte###Motherboard
+3###HDD###Hard Disk
+4###SSD###Hard Disk
+5###Ryzen###Processor
+6###Intel###Processor
+7###2GB###Ram
+8###NVIDIA###GPU
